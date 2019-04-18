@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/github.com/knative/serving/cmd/activator@sha256:60630ac88d8cb67debd1e2ab1ecd6ec3ff6cbab2336dda8e7ae1c01ebead76c0
+MAINTAINER doop
